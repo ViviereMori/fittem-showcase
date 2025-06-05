@@ -15,16 +15,7 @@
 
 ### 📽 Demo Preview
 
-📹 *[Watch FITTEM in Action (Beta)](https://your-video-link.com)*  
-_(Link placeholder — replace with actual video when ready)_
-
----
-
-### 📸 Visual Example
-
-![fittem-demo](./demo-screenshot.gif)  
-*Real shirt uploaded → Avatar adjusts → Instant visual output*
-
+📹 *[Watch FITTEM in Action (Beta)](https://youtu.be/ybJt_iiTik4)*  
 ---
 
 ### 🔐 Current Status
